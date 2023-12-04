@@ -52,5 +52,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to explore the website and provide feedback. If you encounter any issues or have suggestions for improvement, please open an [issue](https://github.com/Ranjika123/Hotel-Miranda/issues).
 
-[Optional: Add badges such as license, build status, etc.]
+
 
