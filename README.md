@@ -6,7 +6,6 @@ Welcome to the Hotel Miranda Website repository! This project is a website for H
 - [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -30,9 +29,6 @@ To run the Hotel Miranda Website locally, follow these steps:
 2. Navigate to the project directory: `cd Hotel-Miranda`
 3. Open the `index.html` file in your preferred web browser.
 
-## Usage
-
-[Provide instructions on how to navigate the website and any additional information users might need.]
 
 ## Contributing
 
